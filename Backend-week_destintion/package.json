@@ -1,0 +1,17 @@
+{
+  "name": "weekend_destination",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Application to plan weekend events",
+  "main": "weekendestination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "^4.9.5"
+  },
+  "author": "Swapnil_Mahajan",
+  "license": "ISC"
+}
